@@ -1,0 +1,21 @@
+pathway,model,metric,estimate,ci_95_lower,ci_95_upper,bootstrap_replicates,capacity_fraction_for_queue_metrics,resampling_unit
+patient,Strict nested stack,AUROC,0.6154376951046527,0.6093334049755514,0.6237233852002662,2000,,dependency_component
+patient,Strict nested stack,AUPRC,0.3895194800398234,0.37566545567118126,0.4133399213398483,2000,,dependency_component
+patient,Strict nested stack,precision,0.4134366925064599,0.39681428976637556,0.4492075150260069,2000,0.1,dependency_component
+patient,Strict nested stack,recall,0.13807982740021574,0.1335207356370019,0.14432203457173487,2000,0.1,dependency_component
+patient,Strict nested stack,enrichment,1.377587115225408,1.3312218209228577,1.4366677561215917,2000,0.1,dependency_component
+patient,Best single model: CatBoost,AUROC,0.613107834046561,0.6069201062144344,0.6207791490372362,2000,,dependency_component
+patient,Best single model: CatBoost,AUPRC,0.3872984259047835,0.37409857750914105,0.40960205681907885,2000,,dependency_component
+patient,Best single model: CatBoost,precision,0.4175824175824176,0.39873395174974385,0.44631994982737627,2000,0.1,dependency_component
+patient,Best single model: CatBoost,recall,0.13937432578209277,0.13301393613238396,0.14394390287709333,2000,0.1,dependency_component
+patient,Best single model: CatBoost,enrichment,1.391400832177531,1.322370265836054,1.4331258833370806,2000,0.1,dependency_component
+environmental,Strict nested stack,AUROC,0.6101889429142875,0.6040105063073617,0.6200220315299887,2000,,dependency_component
+environmental,Strict nested stack,AUPRC,0.4436390281004263,0.43111466854749775,0.46435459233658666,2000,,dependency_component
+environmental,Strict nested stack,precision,0.5032258064516129,0.4783718099665299,0.5334634542869012,2000,0.1,dependency_component
+environmental,Strict nested stack,recall,0.14641995172968625,0.14090672594966316,0.15281538783763415,2000,0.1,dependency_component
+environmental,Strict nested stack,enrichment,1.4609607349544544,1.4018400985189636,1.517911863077095,2000,0.1,dependency_component
+environmental,Best single model: Extra Trees,AUROC,0.6082261783832683,0.6020167481261193,0.6165220111680577,2000,,dependency_component
+environmental,Best single model: Extra Trees,AUPRC,0.4406058257912381,0.4278151043673806,0.4603247435630859,2000,,dependency_component
+environmental,Best single model: Extra Trees,precision,0.48986175115207375,0.468964503520394,0.524766485905959,2000,0.1,dependency_component
+environmental,Best single model: Extra Trees,recall,0.14253150978814697,0.13813591883403734,0.15035196315798263,2000,0.1,dependency_component
+environmental,Best single model: Extra Trees,enrichment,1.422162327158045,1.3747468587008138,1.4928197077203762,2000,0.1,dependency_component

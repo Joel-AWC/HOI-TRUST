@@ -1,0 +1,11 @@
+pathway,partition,observations,dependency_components
+patient,development,30888,2840
+patient,probability_calibration,4450,568
+patient,operating_point,4874,568
+patient,conformal_calibration,5015,568
+patient,legacy_final_test,11078,1137
+environmental,development,21652,2565
+environmental,probability_calibration,4279,514
+environmental,operating_point,4346,514
+environmental,conformal_calibration,4354,514
+environmental,legacy_final_test,8772,1027
