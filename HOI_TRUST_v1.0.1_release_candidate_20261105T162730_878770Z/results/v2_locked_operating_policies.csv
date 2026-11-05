@@ -1,5 +1,0 @@
-pathway,policy_type,policy_status,capacity_fraction,nominal_n,actual_n_including_ties,true_positives,precision_at_capacity,recall_at_capacity,enrichment_at_capacity,number_needed_to_review,work_saved_vs_review_all,selected_fraction,selection_rule,confidence_threshold,coverage,selective_error,selective_accuracy,selected_n
-patient,capacity,target_met,0.1,492.0,492.0,207.0,0.42073170731707316,0.13920645595158038,1.3790493217642332,2.3768115942028984,0.8990562166598277,0.10094378334017234,smallest pre-specified capacity with recall >= 0.10,,,,,
-patient,selective,target_met,,,,,,,,,,,maximum coverage subject to target selective error,0.5456380071293552,0.18054985638079607,0.2,0.8,880.0
-environmental,capacity,target_met,0.1,440.0,440.0,222.0,0.5045454545454545,0.1488933601609658,1.470660325589903,1.9819819819819822,0.8987574781408192,0.10124252185918085,smallest pre-specified capacity with recall >= 0.10,,,,,
-environmental,selective,target_not_met,,,,,,,,,,,no threshold locked because the prespecified target was not met,,0.0004601932811780948,0.0,1.0,2.0

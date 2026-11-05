@@ -1,3 +1,0 @@
-pathway,nominal_coverage,observation_coverage,component_complete_coverage,singleton_fraction,ambiguous_fraction,empty_fraction,selective_nonabstention_fraction,selective_error_nonabstained
-patient,0.9,0.9825780826864055,0.8962181178540017,0.10579526990431486,0.8942047300956851,0.0,0.19037732442679184,0.19298245614035087
-environmental,0.9,0.9860921112631099,0.9308666017526777,0.07934336525307797,0.920656634746922,0.0,0.0,
