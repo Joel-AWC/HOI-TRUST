@@ -1,0 +1,3 @@
+pathway,AUROC,AUPRC,AUPRC_lift,Brier,Brier_skill,ECE_10,calibration_intercept,calibration_slope,prevalence,locked_candidate,calibration_method,partition
+patient,0.6127377112886395,0.399793652863477,1.3168628832290692,0.2043365751147984,0.033528155446912344,0.006000432109264446,0.0003589357334346224,1.000082478073134,0.30359550561797755,Strict nested stack,Platt scaling on logit-transformed probability,probability_calibration
+environmental,0.6169381513092677,0.46227301985562275,1.3410618657370912,0.21644604056029887,0.04178229944180878,0.011122901560201718,-0.00020231670116572023,0.999962686026633,0.3447067071745735,Strict nested stack,Platt scaling on logit-transformed probability,probability_calibration

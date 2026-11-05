@@ -1,0 +1,11 @@
+pathway,base_model,meta_logit_coefficient
+patient,Logistic regression,-0.07674085980269854
+patient,Extra Trees,0.13695462247275708
+patient,XGBoost,0.14974954406344207
+patient,CatBoost,0.11492303014237296
+patient,Explainable Boosting Machine,0.11026368429070038
+environmental,Logistic regression,0.043150735702097515
+environmental,Extra Trees,0.19871475839611824
+environmental,XGBoost,-0.00826560162938401
+environmental,CatBoost,0.11664527411404357
+environmental,Explainable Boosting Machine,0.07914913605726395
